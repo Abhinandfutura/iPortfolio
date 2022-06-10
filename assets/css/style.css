@@ -196,13 +196,13 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  
   width: 77%;
   height: 100vh;
-  background: url(../img/hero-bg2.jpg) top center no-repeat;
-  background-size: auto;
+  background: url(../img/hero-bg1.jpg) top center no-repeat;
   margin-left: 300px;
-background-attachment: inherit;
+  background-size: 100% 100%;
+  background-attachment: inherit;
+
  
   
 }
